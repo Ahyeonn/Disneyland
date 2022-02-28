@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Disneyland/static/css/main.073c9b0a.css",
+    "main.js": "/Disneyland/static/js/main.b24fa917.js",
+    "index.html": "/Disneyland/index.html",
+    "main.073c9b0a.css.map": "/Disneyland/static/css/main.073c9b0a.css.map",
+    "main.b24fa917.js.map": "/Disneyland/static/js/main.b24fa917.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b24fa917.js"
+  ]
+}
