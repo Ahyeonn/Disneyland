@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/Disneyland/static/css/main.073c9b0a.css",
-    "main.js": "/Disneyland/static/js/main.b24fa917.js",
+    "main.css": "/Disneyland/static/css/main.bce8a23c.css",
+    "main.js": "/Disneyland/static/js/main.36c2a3d7.js",
+    "static/media/Disneyland_bg.jpg": "/Disneyland/static/media/Disneyland_bg.2878ae2254fe69fd3ad3.jpg",
     "index.html": "/Disneyland/index.html",
-    "main.073c9b0a.css.map": "/Disneyland/static/css/main.073c9b0a.css.map",
-    "main.b24fa917.js.map": "/Disneyland/static/js/main.b24fa917.js.map"
+    "main.bce8a23c.css.map": "/Disneyland/static/css/main.bce8a23c.css.map",
+    "main.36c2a3d7.js.map": "/Disneyland/static/js/main.36c2a3d7.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.b24fa917.js"
+    "static/css/main.bce8a23c.css",
+    "static/js/main.36c2a3d7.js"
   ]
 }
