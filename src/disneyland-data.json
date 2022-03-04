@@ -1,0 +1,121 @@
+[
+  {
+     "title":"Splash Mountain",
+     "desc":"Splash Mountain is a log flume at Disneyland, Tokyo Disneyland, and Magic Kingdom, based on the animated sequences of the 1946 Disney film Song of the South.",
+     "images":[
+        "Splash_mountain.jpg"
+     ]
+  },
+  {
+     "title":"it's a small world",
+     "desc":"It's a Small World is a water-based boat ride located in the Fantasyland area at various Disney themeworldwide, including Disneylandn Anaheim, California; Magic Kingdom at Walt Disney World Resort in Bay Lake, Florida; Tokyo Disneyland, Disneyland Paris; and Hong Kong Disneyland, with its inaugural version having premiered at the 1964 New York World's Fair before permanently moving to Disneyland",
+     "images":[
+        "Its_a_small_word.jpg"
+     ]
+  },
+  {
+     "title":"Matterhorn Bobsleds",
+     "desc":"Matterhorn Bobsleds are a pair of intertwined steel roller coasters at Disneyland in Anaheim, California. It is modeled after the Matterhorn, a mountain in the Alps on the border between Switzerland and Italy. It is the first known tubular steel continuous-track roller coaster.",
+     "images":[
+        "Matternhorn.jpg"
+     ]
+  },
+  {
+     "title":"Pirates of the Caribbean",
+     "desc":"Pirates of the Caribbean is a dark ride at Disneyland, Walt Disney World's Magic Kingdom, Tokyo Disneyland, Disneylandt Disneyland Paris, and Shanghai Disneyland.",
+     "images":[
+        "Pirates.jpg"
+     ]
+  },
+  {
+     "title":"The Haunted Mansion",
+     "desc":"The Haunted Mansion is a dark ride attraction located at Disneyland, Magic Kingdom, and Tokyo Disneyland. The haunted house attraction features a ride-through tour in Omnimover vehicles called 'Doom Buggies', and a walk-through show is displayed to riders waiting in the queue line.",
+     "images":[
+        "Haunted_mansion.jpg"
+     ]
+  },
+  {
+     "title":"Indiana Jones™ Adventure",
+     "desc":"Indiana Jones Adventure is an enhanced motion vehicle dark ride attraction based on the Indiana Jones film series, located at Disneyland and Tokyo DisneySea.",
+     "images":[
+        "Indiana_jones.jpg"
+     ]
+  },
+  {
+     "title":"Peter Pan's Flight",
+     "desc":"Peter Pan's Flight is a rail-suspended dark ride at the Magic Kingdom, Disneyland, Disneyland Paris, Tokyo Disneyland, and Shanghai Disneyland theme",
+     "images":[
+        "Peter_pan.jpg"
+     ]
+  },
+  {
+     "title":"Jungle Cruise",
+     "desc":"Jungle Cruise, formally named Jungle River Cruise, is a riverboat amusement ride located in the Adventureland themed section at various Disney themeworldwide.",
+     "images":[
+        "Jungle_cruise.jpg"
+     ]
+  },
+  {
+     "title":"Autopia",
+     "desc":"Autopia is a race car track Disneyland attraction, in which patrons steer specially designed cars through an enclosed track. Versions of Autopia exist at Anaheim, California and Disneyland Paris in Marne-la-Vallée, France.",
+     "images":[
+        "Autopia.jpg"
+     ]
+  },
+  {
+     "title":"Buzz Lightyear Astro Blasters",
+     "desc":"Buzz Lightyear Astro Blasters is an Omnimover shooter attraction in Disneylandt the Disneyland Resort in California. It opened softly on March 10, 2005 and officially opened on March 17, 2005.",
+     "images":[
+        "Buzz_lighter.jpg"
+     ]
+  },
+  {
+      "title":"Gadget's Go Coaster",
+      "desc":"Gadget's Go Coaster is a junior roller coaster at the Disneyland themen Anaheim, California and Tokyo Disneyland themelocated in Urayasu, Chiba, Japan, near Tokyo. The ride is based on the work of the character Gadget Hackwrench from the Disney animated series Chip 'n Dale: Rescue Rangers.",
+      "images":[
+         "Gadgets.jpg"
+         ]
+   },
+   {
+      "title":"Roger Rabbit's Car Toon Spin",
+      "desc":"Roger Rabbit's Car Toon Spin is a dark ride located at the Disneyland and Tokyo Disneyland theme based on the Steven Spielberg and Robert Zemeckis live action/animated feature film Who Framed Roger Rabbit. Both versions of the attraction are located in Mickey's Toontown.",
+      "images":[
+         "Roger.jpg"
+      ]
+   },
+   {
+      "title":"Finding Nemo Submarine Voyage",
+      "desc":"Finding Nemo Submarine Voyage is an attraction located in the Tomorrowland area of Disneylandn Anaheim, California, which opened on June 11, 2007.",
+      "images":[
+         "Nemo.jpg"
+      ]
+   },
+   {
+      "title":"Star Tours: The Adventures Continue",
+      "desc":"Star Tours: The Adventures Continue is an attraction located at Disney's Hollywood Studios, Disneyland, Tokyo Disneyland, and Disneyland Paris.",
+      "images":[
+         "Star_Tours.jpg"
+      ]
+   },
+   {
+      "title":"Disneyland Railroad",
+      "desc":"The Disneyland Railroad, formerly known as the Santa Fe & Disneyland Railroad, is a 3-foot narrow-gauge heritage railroad and attraction in the Disneyland themef the Disneyland Resort in Anaheim, California, in the United States.",
+      "images":[
+         "Disney_railroad.jpg"
+      ]
+   },
+   {
+      "title":"Sailing Ship Columbia",
+      "desc":"The Sailing Ship Columbia, located at the Disneylandn Anaheim, California, is a full-scale replica of Columbia Rediviva, the first American ship to circumnavigate the globe. The Columbia has operated in theor more than fifty years.",
+      "images":[
+         "Sailing_ship.jpg"
+      ]
+   },
+  {
+    "title":"Storybook Land Canal Boats",
+    "desc":"Storybook Land Canal Boats is an attraction located at the Disneyland and Disneylandheme Passengers embark on a leisurely paced outdoor boat ride through a winding canal featuring settings from Disney animated films recreated in miniature.",
+    "images":[
+       "Storybook.jpg"
+     ]
+   }
+]

@@ -1,0 +1,46 @@
+.DisneySpace {
+    width: 100%;
+    text-align: center;
+    position: relative;
+  }
+  
+.DisneySpace > img {
+  width: 100%;
+  height: 250px;
+}
+
+
+.DisneySpace > .hours {
+    font-family:'Courier New', Courier, monospace;
+  }
+  
+.DisneySpace .DisneySpace-title {
+    text-decoration: none;
+    color: rgb(92, 90, 94);
+}
+
+.DisneySpace h1 {
+display: block;
+    position: absolute;
+    left: 8%;
+    top: 0;
+    margin: 0;
+    font-weight: lighter;
+    background-color: rgba(255, 255, 255, 0.75);
+    padding: 1rem;
+    text-align: left;
+    font-size: 23px;
+}
+
+
+.DisneySpace p {
+    border-bottom: solid;
+    border-left: solid;
+    border-width: 1px;
+    height: 240px;
+    display: flex;
+    align-items: center;
+    font-family: cursive;
+    padding: 0px 20px;
+    border-color: rgb(109, 109, 248);
+}

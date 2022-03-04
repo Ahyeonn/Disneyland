@@ -1,0 +1,32 @@
+.Title {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 0.5em;
+    margin-bottom: 1.8em;
+    font-size: 20px;
+    background-color: rgb(153, 147, 146);
+    color: #fff;
+    background-image: url('/public/images/Disneyland_bg.jpg');
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  
+.Title-Subtitle {
+    color: rgba(255, 255, 255, 0.85);
+}
+
+.Title a {
+  font-size: 16px;
+  display: inline-block;
+  padding: 0.5em 1em;
+  color: rgba(255, 255, 255, 0.835);
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.Title .nav-link-active {
+  color: #fff;
+  border-bottom: 2px solid;
+}
